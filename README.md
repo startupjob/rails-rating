@@ -1,0 +1,4 @@
+rails-rating
+============
+
+Rails rating
